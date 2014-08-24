@@ -22,8 +22,8 @@ Method 1:
   
 Method 2:
 
-  - Download the ececutable EightPuzzle.jar file
+  - Download the ececutable EightPuzzleGame.jar file
   - Run the jar file as:
-          java -jar EightPuzzle.jar
+          java -jar EightPuzzleGame.jar
           
 NOTE: The sample input file is provided
