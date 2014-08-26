@@ -1,6 +1,5 @@
-##########################
-### PROJECT DESCRIPTION ##
-##########################
+PROJECT DESCRIPTION
+=====================
 
 This is simple java implementation of Eight Puzzle Game
 
@@ -9,10 +8,10 @@ the program parses this file and solves the puzzle
 
 The program uses Recursive Best First search approach.
 
-####################################################################################
+=========================================================================================
 
 PROJECT RUN INSTRUCTIONS
-------------------------
+==========================
 
 Method 1: 
 
